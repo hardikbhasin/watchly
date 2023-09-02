@@ -1,5 +1,11 @@
 # About Watchly ...
 "Watchly" is an impressive project that replicates the essential features of YouTube, leveraging React Js and Rapid API for its development. This YouTube clone offers users a familiar experience by enabling them to search for videos and browse through various categories. Notably, Watchly goes the extra mile by curating special video sections, including coding videos, React tutorials, and Next.js content. This feature not only enhances user engagement but also caters to specific interests within the tech and programming communities. With its sleek design and intuitive interface, Watchly stands as a testament to the developer's skills in front-end web development and their ability to create a user-friendly platform reminiscent of the world's most popular video-sharing site, YouTube.
+# Screenshots
+![Screenshot (218)](https://github.com/hardikbhasin/watchly/assets/107865928/3c46f0f7-44e9-4318-9066-ca504bf1a2e1)
+
+![Screenshot (220)](https://github.com/hardikbhasin/watchly/assets/107865928/3b0ed640-28c1-42a0-a702-adc5e3b0c8d6)
+
+![Screenshot (221)](https://github.com/hardikbhasin/watchly/assets/107865928/6f66723a-0a8b-4a47-8f3e-8e4de6c57314)
 
 
 # Getting Started with Create React App
